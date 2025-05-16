@@ -43,4 +43,4 @@
 
  **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://paypal.me/nathanamudavi" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://paypal.me/nathanamudavi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>

@@ -1,4 +1,4 @@
-![👋 Hi, my name is Nathan](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![👋 Hi, my name is Nathan](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)<br>
 Hi, I’m Nathan 
 I’m interested in programming with python for machine learning.
 I’m currently a student at the University of Murang'a doing my degree in Computer Science.
@@ -6,17 +6,11 @@ looking to collaborate with diffrent programmers from diffrent fields allover th
 Reach out to me through my email: nathanamudavi@gmail.com
 
 
-<!---
-nathansungu/nathansungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Sushil Magare
+        👋 Hi, my name is Nathan
       </h1>
     </summary>
   </ul>
